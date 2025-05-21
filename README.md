@@ -26,33 +26,4 @@
 
 
 
-game:
-  title: "Battle of the Repos"
-  version: 1.0.0
-  player:
-    name: "Dimitri"
-    class: "Code Warrior"
-    level: 18
-    skills:
-      - git-push
-      - bug-squash
-      - merge-master
-  inventory:
-    - laptop
-    - energy_drink
-    - stackoverflow_scrolls
-  mission:
-    objective: "Defeat the bugs and deploy to production"
-    status: "In progress"
-    difficulty: "Legendary"
-  enemies:
-    - name: "NullPointer"
-      type: "Exception"
-      hp: 999
-    - name: "MergeConflict"
-      type: "Chaos"
-      hp: 666
-    - name: "Deadline"
-      type: "TimeBeast"
-      hp: ∞
 
