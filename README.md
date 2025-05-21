@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm a software development student at Aventus.  <br>💻 Passionate about coding, web development, and exploring new technologies.  <br>📚 Always learning and improving as a developer.  <br>🚀 On GitHub, I share my projects, school assignments, and coding experiments.<br><br>🌐 Languages & tools: HTML, CSS, JavaScript, PHP, Python, Git, GitHub<br><br><br>
+👋 Hi there! I'm a software development student at Aventus.  <br>💻 Passionate about coding, web development, and exploring new technologies.  <br>📚 Always learning and improving as a developer.  <br>🚀 On GitHub, I share my projects, school assignments, and coding experiments.<br><br>🌐 Languages & tools: HTML, CSS, JavaScript, PHP, Python, Git, GitHub
+
+all the code skill listed below are still in progress<br><br><br>
 
 
 ## 🌐 Socials:
